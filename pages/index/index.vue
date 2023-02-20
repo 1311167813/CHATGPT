@@ -56,7 +56,7 @@
 						model:'text-davinci-003',
 						prompt:obj.text,
 						temperature:0,
-						user:'1311167813@qq.com'
+						user:'这里填邮箱或不填'
 					},
 					success:(res => {
 						uni.hideLoading()
